@@ -1,0 +1,6 @@
+if SHIELD_LEFT_SIDE_COSMOS
+
+config ZMK_KEYBOARD_NAME
+    default "midnight52"
+
+endif

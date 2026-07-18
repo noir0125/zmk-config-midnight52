@@ -3,3 +3,5 @@ include:
     shield: lily58_left
   - board: nice_nano//zmk
     shield: lily58_right
+  - board: nice_nano//zmk
+    shield: left_side_cosmos
