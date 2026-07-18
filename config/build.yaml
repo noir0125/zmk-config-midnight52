@@ -1,3 +1,0 @@
-include:
-  - board: nice_nano//zmk
-    shield: left_side_cosmos
