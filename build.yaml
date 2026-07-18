@@ -1,0 +1,5 @@
+include:
+  - board: nice_nano//zmk@1
+    shield: lily58_left
+  - board: nice_nano//zmk@1
+    shield: lily58_right
