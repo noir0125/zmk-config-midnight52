@@ -1,6 +1,1 @@
-if SHIELD_LEFT_SIDE_COSMOS
-
-config ZMK_KEYBOARD_NAME
-    default "midnight52"
-
-endif
+# Shield defaults are defined in boards/shields/left_side_cosmos/
